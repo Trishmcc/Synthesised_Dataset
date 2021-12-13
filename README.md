@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Overview of the matplotlib.pyplot Python package and an overview of how to load CAO points information from the CAO website into a pandas data frame. 
 
 ***
@@ -158,3 +159,4 @@ http://www.i18nqa.com/debug/table-iso8859-1-vs-windows-1252.html
 
 
 https://pandas.pydata.org/about/index.html
+
