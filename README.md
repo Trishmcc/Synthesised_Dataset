@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Overview of the matplotlib.pyplot Python package and an overview of how to load CAO points information from the CAO website into a pandas data frame. 
 
 ***
