@@ -11,8 +11,8 @@ Numpy random package is already included in the numpy package.
 
 # How to run this repository
 
-git clone git@github.com:Trishmcc/Programming-for-Data-Analysis.git
- cd Programming-for-Data-Analysis
+git clone git@github.com:Trishmcc/Synthesised_Dataset.git
+ cd Synthesised_Dataset
  jupyter lab
 
 For running this notebook file you must have Jupyter Lab installed on your computer.
