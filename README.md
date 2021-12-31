@@ -1,6 +1,6 @@
 # Programming-for-Data-Analysis
 
-This repository contains information about simulating heart disease data. Varibales were investigated and their likely distributions and their relationships with eachother. This is for a module named Programming for Data Analysis (2021) 
+This repository contains information about simulating heart disease data. Variables were investigated and their likely distributions and their relationships with eachother. This is for a module named Programming for Data Analysis (2021) 
 
 The data is synthesised and modelled using Python. numpy.random package was used for this purpose.
 
